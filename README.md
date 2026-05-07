@@ -109,6 +109,7 @@ The Power BI dashboard includes:
 
 ## Project Structure
 
+```text
 Customer-Retention-Retail-Analysis/
 
 ├── dashboard/
@@ -124,6 +125,7 @@ Customer-Retention-Retail-Analysis/
 ├── README.md
 │
 └── .gitignore
+```
 
 ---
 
