@@ -37,7 +37,7 @@ Online Retail II Dataset
 The dataset contains transactional data for a UK-based online retail company between 2009 and 2011.
 
 Dataset Source:
-https://archive.ics.uci.edu/ml/datasets/Online+Retail+II
+https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci
 
 ---
 
