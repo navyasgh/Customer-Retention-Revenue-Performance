@@ -122,9 +122,8 @@ Customer-Retention-Retail-Analysis/
 ├── sql/
 │   └── retail_pgs.sql
 │
-├── README.md
-│
-└── .gitignore
+└── README.md
+
 ```
 
 ---
